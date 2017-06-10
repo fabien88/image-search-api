@@ -1,4 +1,4 @@
-# timestamp-api
+# Google Image Search Api
 freecodecamp Image Search Abstraction Layer api
 
 [Demo](https://image-search-qbumbvrxmb.now.sh/)
