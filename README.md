@@ -12,7 +12,6 @@ Then
 
 ```
 yarn dev
-
 ```
 
 Put your own credentials into `now.json`
