@@ -11,6 +11,7 @@ Get a free MongoDB on [https://mlab.com](https://mlab.com) and create a new DB.
 Then
 
 ```
+yarn
 yarn dev
 ```
 
