@@ -1,0 +1,23 @@
+{
+  "name": "image-search",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "fs-router": "^0.3.0",
+    "micro": "^7.3.3",
+    "mime-types": "^2.1.15",
+    "mongodb": "^2.2.28",
+    "next": "^2.3.1",
+    "node-fetch": "^1.7.1",
+    "offline-plugin": "^4.7.0",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "react-no-ssr": "^1.1.0"
+  },
+  "scripts": {
+    "dev": "nodemon -w server/ -w next.config.js -w server.js --exec node server.js",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js"
+  }
+}
