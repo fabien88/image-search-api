@@ -28,3 +28,10 @@ touch now.json
   }
 }
 ```
+
+
+Deploy
+
+```
+now
+```
